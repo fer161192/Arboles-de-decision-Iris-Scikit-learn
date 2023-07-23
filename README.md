@@ -1,2 +1,17 @@
 # Arboles-de-decision-Iris-Scikit-learn
-Ejercicio 1  (Obviamente realizado por mi) de la guía de arboles de decisión. Para detalles del enunciado, leer el readme por favor.
+1. Entrenar un árbol de decisión para el conjunto de datos de Iris.
+2. Partir el conjunto Iris en dos: “entrenamiento” y “prueba”, dejando un 25% del conjunto
+original para pruebas.
+3. Imprimir la precisión (accuracy_score), para ambos conjuntos.
+4. Graficar el árbol de decisión.
+5. Volver a calcular el árbol cambiando el hiperparámetro: criterion para que use la entropía
+en lugar de la impureza de Gini.
+      a. ¿Cúal da mejor resultado?
+      b. ¿Cambió el tiempo de entrenamiento?
+6. Entrenar un modelo RandomForest
+      a. Calcular la precision
+      b. Calcular la matriz de confusión
+      c. Comparar con los árboles anteriores
+      d. Cambiar el hiperparámetro n_estimators dejarlo igual 10.
+            i. ¿Mejoró o empeoró el modelo?
+            ii. ¿Cambió el tiempo de entrenamiento?
