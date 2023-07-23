@@ -6,9 +6,10 @@ original para pruebas.
 4. Graficar el árbol de decisión.
 5. Volver a calcular el árbol cambiando el hiperparámetro: criterion para que use la entropía
 en lugar de la impureza de Gini.
+
       a. ¿Cúal da mejor resultado?
       b. ¿Cambió el tiempo de entrenamiento?
-6. Entrenar un modelo RandomForest
+7. Entrenar un modelo RandomForest
       a. Calcular la precision
       b. Calcular la matriz de confusión
       c. Comparar con los árboles anteriores
