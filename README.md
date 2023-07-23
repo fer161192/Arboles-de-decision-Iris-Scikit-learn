@@ -8,6 +8,7 @@ original para pruebas.
 en lugar de la impureza de Gini.
 
       a. ¿Cúal da mejor resultado?
+   
       b. ¿Cambió el tiempo de entrenamiento?
 7. Entrenar un modelo RandomForest
       a. Calcular la precision
