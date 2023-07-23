@@ -23,3 +23,5 @@ en lugar de la impureza de Gini.
             i. ¿Mejoró o empeoró el modelo?
    
             ii. ¿Cambió el tiempo de entrenamiento?
+
+![Este es el resultado esperado del enunciado. Si bien no dio eso, lo que me dio, se aproxima bastante a lo pedido en el enunciado del ejercicio.](https://raw.githubusercontent.com/fer161192/Arboles-de-decision-Iris-Scikit-learn/main/Captura%20de%20pantalla%202023-07-23%20173025.png)
