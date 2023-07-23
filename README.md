@@ -11,9 +11,15 @@ en lugar de la impureza de Gini.
    
       b. ¿Cambió el tiempo de entrenamiento?
 7. Entrenar un modelo RandomForest
+   
       a. Calcular la precision
+   
       b. Calcular la matriz de confusión
+   
       c. Comparar con los árboles anteriores
+   
       d. Cambiar el hiperparámetro n_estimators dejarlo igual 10.
+   
             i. ¿Mejoró o empeoró el modelo?
+   
             ii. ¿Cambió el tiempo de entrenamiento?
