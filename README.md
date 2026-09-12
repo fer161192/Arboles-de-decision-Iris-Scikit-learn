@@ -34,4 +34,6 @@ El árbol graficado difiere del ejemplo de referencia porque se entrenó sobre
 el conjunto de entrenamiento (112 muestras, tras el split 75/25) en vez del 
 dataset completo (150 muestras). Esto es consistente con buenas prácticas de 
 ML (evitar evaluar con datos ya vistos en entrenamiento), aunque diverge del 
-orden de pasos sugerido en el enunciado original.
+orden de pasos sugerido en el enunciado original. Se optó por priorizar la 
+metodología correcta de validación por sobre la réplica exacta del resultado 
+esperado.
