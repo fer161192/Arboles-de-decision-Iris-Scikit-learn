@@ -29,6 +29,9 @@ Este es el resultado esperado del enunciado. Si bien no dio eso, lo que me dio, 
 ![Este es el resultado esperado del enunciado. Si bien no dio eso, lo que me dio, se aproxima bastante a lo pedido en el enunciado del ejercicio.](https://raw.githubusercontent.com/fer161192/Arboles-de-decision-Iris-Scikit-learn/main/Captura%20de%20pantalla%202023-07-23%20173025.png)
 
 Explicación "bajada a tierra" de los resultados y como clasifica el árbol: 
+Para este caso se usó como criterio la llamada "impureza de Gini". Este criterio es un tipo de medida de cuan cuán a menudo un elemento elegido
+aleatoriamente del conjunto sería etiquetado incorrectamente si fue etiquetado de
+manera aleatoria de acuerdo a la distribución de las etiquetas en el subconjunto.
 
 
 ## Nota sobre la diferencia con el resultado esperado
