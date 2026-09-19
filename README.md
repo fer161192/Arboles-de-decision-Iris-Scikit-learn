@@ -33,7 +33,7 @@ Para este caso se usó como criterio la llamada "impureza de Gini". Este criteri
 aleatoriamente del conjunto sería etiquetado incorrectamente si fue etiquetado de
 manera aleatoria de acuerdo a la distribución de las etiquetas en el subconjunto.
 
-![Criterio de Gini](Impureza de gini.jpg)
+![Criterio de Gini](Impureza_de_gini.jpg)
 
 ## Nota sobre la diferencia con el resultado esperado
 El árbol graficado difiere del ejemplo de referencia porque se entrenó sobre 
